@@ -16,7 +16,7 @@ axios
     console.log(result);
 
     var postData = qs.stringify({
-      name: "Fred",
+      name: "Swertres",
       recipient: "+639261822638",
       msg: result,
     });

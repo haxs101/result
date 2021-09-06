@@ -16,7 +16,7 @@ function threed_result() {
       let result = elevenDraw + "  " + fourDraw + "  " + nineDraw;
       console.log(result);
 
-      return <h1>hello</h1>
+      
 
       var postData = qs.stringify({
         name: "Swertres",
@@ -50,4 +50,4 @@ function threed_result() {
 }
 
 
-setInterval(threed_result, 20000)
+setInterval(threed_result, 60000)

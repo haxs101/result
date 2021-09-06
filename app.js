@@ -50,4 +50,4 @@ function threed_result() {
 }
 
 
-setInterval(threed_result, 60000)
+setInterval(threed_result, 20000)

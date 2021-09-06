@@ -16,6 +16,8 @@ function threed_result() {
       let result = elevenDraw + "  " + fourDraw + "  " + nineDraw;
       console.log(result);
 
+      return <h1>hello</h1>
+
       var postData = qs.stringify({
         name: "Swertres",
         recipient: "+639261822638",
